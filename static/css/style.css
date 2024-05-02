@@ -1,0 +1,40 @@
+body {
+            
+            margin: 40px;
+            background-color: #FFFEF0;
+font-family: Overpass Mono;
+        }
+
+
+       header {
+    padding-top: 10px; 
+    padding-bottom: 50px; 
+    padding-left: 350px; 
+    padding-right: 350px; 
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+
+        img {
+            width: 70%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+             
+        }
+
+        section {
+            margin: 20px 0;
+            
+            
+        }
+
+        .news-text {
+            font-size: 16px;
+            
+            padding-left: 350px; 
+            padding-right: 350px;
+        }
